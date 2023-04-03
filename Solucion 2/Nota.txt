@@ -1,0 +1,4 @@
+Pasos a seguir:
+	1.- Debe crear una base de datos con el nombre de su preferencia en Postgresql
+	2.- Ejecute el archivo Create_Table_insert.sql
+	3.- Ejecute los archivos Sentencia1, Sentencia2 y asi secesivamente para ir visualizando la solucion a los 6 problemas propuestos.
